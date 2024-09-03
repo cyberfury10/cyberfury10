@@ -15,4 +15,19 @@ Full Stack Developer | Passionate about crafting efficient, maintainable, and re
 ---
 [![](https://visitcount.itsvg.in/api?id=cyberfury10&icon=0&color=0)](https://visitcount.itsvg.in)
 
+# Notable projects:
+**Stock data generator:**
+
+The Stock Data Generator is a small library to create mock data for stock market simulations, testing, and development purposes. It allows users to generate stock-related datasets, This library is ideal for developers and analysts who need vast test data without relying on real-world stock information.
+- ![npm link](https://www.npmjs.com/package/stock-data-generator)
+- ![Repo link](https://github.com/cyberfury10/stock-data-generator)
+
+**WebEdit Pro:**
+
+A browser extension that addresses a missing feature on Github by replacing text on webpages. It is created using ReactJS, Chrome API, and custom webpack, as an open source.
+
+- ![Chrome extension](https://chromewebstore.google.com/detail/webedit-pro/poacbppnkkaljgcfcgmabigfjhbkfdle)
+- ![Edge addon](https://microsoftedge.microsoft.com/addons/detail/webedit-pro/iglmlbhnbljiecdengccffmjlcgbjnei)
+- ![Repo link](https://github.com/cyberfury10/web-edit-pro)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
